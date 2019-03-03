@@ -1,0 +1,10 @@
+[package]
+name = "csv_aggregator"
+version = "0.1.0"
+authors = ["Marco Napetti <marco.napetti@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+csv = "1.0"
+serde = "1.0"
+serde_derive = "1.0"
